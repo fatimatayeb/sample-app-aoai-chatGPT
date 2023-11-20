@@ -74,7 +74,7 @@ const Layout = () => {
                 >
                     <Stack horizontal verticalAlign="center">
                         <img
-                            src={Azure}
+                            src={Qmic}
                             className={styles.headerIcon}
                             aria-hidden="true"
                         />
