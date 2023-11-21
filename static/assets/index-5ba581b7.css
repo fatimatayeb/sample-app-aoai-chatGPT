@@ -629,7 +629,12 @@ sup {
 ._questionInputTextArea_pe9s7_13 {
     width: 100%;
     line-height: 40px;
-    margin: 10px 12px
+    margin: 10px 12px;
+    background-color: #b1d7b4;
+}
+
+textarea#TextField10 {
+    background-color: #b1d7b4;
 }
 
 ._questionInputSendButtonContainer_pe9s7_22 {
