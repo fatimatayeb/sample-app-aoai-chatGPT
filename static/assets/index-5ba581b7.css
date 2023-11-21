@@ -23,11 +23,13 @@ html {
 ._layout_19t1l_1 {
     display: flex;
     flex-direction: column;
-    height: 100%
+    height: 100%;
+    background-color: #2e8435;
 }
 
 ._header_19t1l_7 {
-    background-color: #f2f2f2
+    background-color: #2e8435;
+
 }
 
 ._headerContainer_19t1l_11 {
@@ -153,8 +155,8 @@ html {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: radial-gradient(108.78% 108.78% at 50.02% 19.78%,#2e8435 57.29%,#EEF6FE 100%);
-    box-shadow: 0 2px 4px #00000024, 0 0 2px #0000001f;
+    background: radial-gradient(108.78% 108.78% at 50.02% 19.78%,#2e8435 57.29%,#2e8436 100%);
+     /* box-shadow: 0 2px 4px #00000024, 0 0 2px #0000001f;*/
     border-radius: 8px;
     overflow-y: auto;
     max-height: calc(100vh - 100px)
@@ -190,7 +192,7 @@ html {
     align-items: flex-end;
     text-align: center;
     letter-spacing: -.01em;
-    color: #616161
+    color: #ffffff
 }
 
 ._chatIcon_ry9lb_63 {
