@@ -225,7 +225,7 @@ html {
     box-shadow: 0 2px 4px #00000024, 0 0 2px #0000001f;
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 20px;
     line-height: 22px;
     color: #242424;
     flex: none;
@@ -458,8 +458,8 @@ a {
 ._answerText_8d9c8_12 {
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
-    line-height: 20px;
+    font-size: 20px;
+    line-height: 30px;
     color: #f9f9f8;
     flex: none;
     order: 1;
@@ -635,6 +635,7 @@ sup {
 
 textarea#TextField10 {
     background-color: #b1d7b4;
+    font-size: 20px;
 }
 
 ._questionInputSendButtonContainer_pe9s7_22 {
